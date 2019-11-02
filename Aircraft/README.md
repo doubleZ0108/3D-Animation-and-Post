@@ -96,3 +96,6 @@
 
 ### 7.钳子基座 | PliersPedestal
 
+
+
+### 8.钳子管索 | PliersTube
