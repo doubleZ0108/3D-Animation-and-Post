@@ -8,9 +8,9 @@
 
 ### 1.主体原型 | MainBodyPrototype
 
+<img src="ScreenShots/MainBody/1.MainBodyPrototype/MainBodyPrototype1_1.png" alt="MainBodyPrototype1_1" style="zoom:50%;" />
 
-
-
+<img src="ScreenShots/MainBody/1.MainBodyPrototype/MainBodyPrototype1_2.png" alt="MainBodyPrototype1_2" style="zoom:50%;" />
 
 ### 2.顶部组件  | TopComponent
 
