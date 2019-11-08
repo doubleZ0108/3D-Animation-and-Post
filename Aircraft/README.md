@@ -4,6 +4,18 @@
 
 -----
 
+## 整体模型
+
+<img src="ScreenShots/FinalModel/final_model1.png" alt="final_model1" style="zoom:50%;" />
+
+<img src="ScreenShots/FinalModel/final_model2.png" alt="final_model2" style="zoom:50%;" />
+
+<img src="ScreenShots/FinalModel/final_model4.png" alt="final_model4" style="zoom:50%;" />
+
+<img src="ScreenShots/FinalModel/final_model3.png" alt="final_model3" style="zoom:50%;" />
+
+----
+
 ## 主体
 
 ### 1.主体原型 | MainBodyPrototype
