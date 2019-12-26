@@ -4,9 +4,9 @@
 
 -----
 
-# 飞行器模型建模
+## 飞行器模型建模
 
-## 整体模型
+### 整体模型
 
 <img src="Aircraft/ScreenShots/FinalModel/final_model1.png" alt="final_model1" style="zoom:50%;" />
 
@@ -18,75 +18,73 @@
 
 ----
 
-## 主体
+### 主体
 
-### 1.主体原型 | MainBodyPrototype
+#### 1.主体原型 | MainBodyPrototype
 
 <img src="Aircraft/ScreenShots/MainBody/1.MainBodyPrototype/MainBodyPrototype1_1.png" alt="MainBodyPrototype1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/1.MainBodyPrototype/MainBodyPrototype1_2.png" alt="MainBodyPrototype1_2" style="zoom:50%;" />
 
-### 2.顶部组件  | TopComponent
+#### 2.顶部组件  | TopComponent
 
 <img src="Aircraft/ScreenShots/MainBody/2.TopComponent/TopComponent1_1.png" alt="TopComponent1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/2.TopComponent/TopComponent1_2.png" alt="TopComponent1_2" style="zoom:50%;" />
 
-### 3.风挡 | Windshield
+#### 3.风挡 | Windshield
 
 <img src="Aircraft/ScreenShots/MainBody/3.Windshield/Windshield1_1.png" alt="Windshield1_1" style="zoom:50%;" />
-
-
 
 <img src="Aircraft/ScreenShots/MainBody/3.Windshield/Windshield1_2.png" alt="Windshield1_2" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/3.Windshield/Windshield1_3.png" alt="Windshield1_3" style="zoom:50%;" />
 
-### 4.前保险杠 | FrontBumper
+#### 4.前保险杠 | FrontBumper
 
 <img src="Aircraft/ScreenShots/MainBody/4.FrontBumper/FrontBumper1_1.png" alt="FrontBumper1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/4.FrontBumper/FrontBumper1_2.png" alt="FrontBumper1_2" style="zoom:50%;" />
 
-### 5.通风窗 | VentilationWindow
+#### 5.通风窗 | VentilationWindow
 
-#### 前通风窗
+##### 前通风窗
 
 <img src="Aircraft/ScreenShots/MainBody/5.VentilationWindow/Front/VentilationWindow1_1.png" alt="VentilationWindow1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/5.VentilationWindow/Front/VentilationWindow1_2.png" alt="VentilationWindow1_2" style="zoom:50%;" />
 
-#### 前通风盖板
+##### 前通风盖板
 
 <img src="Aircraft/ScreenShots/MainBody/5.VentilationWindow/Front/VentilationCover1_1.png" alt="VentilationCover1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/5.VentilationWindow/Front/VentilationCover1_2.png" alt="VentilationCover1_2" style="zoom:50%;" />
 
-#### 后通风窗
+##### 后通风窗
 
 <img src="Aircraft/ScreenShots/MainBody/5.VentilationWindow/Back/VentilationWindow1_1.png" alt="VentilationWindow1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/5.VentilationWindow/Back/VentilationWindow1_2.png" alt="VentilationWindow1_2" style="zoom:50%;" />
 
-#### 后部组件
+##### 后部组件
 
 <img src="Aircraft/ScreenShots/MainBody/5.VentilationWindow/Back/BackComponent1_1.png" alt="BackComponent1_1" style="zoom:50%;" />
 
-### 6.引擎 | Engine
+#### 6.引擎 | Engine
 
 <img src="Aircraft/ScreenShots/MainBody/6.Engine/Engine1_1.png" alt="Engine1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/6.Engine/Engine1_2.png" alt="Engine1_2" style="zoom:50%;" />
 
-### 7.前控制面板 | FrontControlPanel
+#### 7.前控制面板 | FrontControlPanel
 
 <img src="Aircraft/ScreenShots/MainBody/7.FrontControlPanel/FrontControlPanel1.png" alt="FrontControlPanel1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/MainBody/7.FrontControlPanel/FrontControlPanel2.png" alt="FrontControlPanel2" style="zoom:50%;" />
 
-### 8.平滑 | Smoothing
+#### 8.平滑 | Smoothing
 
-#### 添加循环边
+##### 添加循环边
 
 <img src="Aircraft/ScreenShots/MainBody/8.Smooth/Smooth1_1a.png" alt="Smooth1_1a" style="zoom:50%;" />
 
@@ -100,7 +98,7 @@
 
 <img src="Aircraft/ScreenShots/MainBody/8.Smooth/Smooth1_3b.png" alt="Smooth1_3b" style="zoom:50%;" />
 
-#### 添加折痕
+##### 添加折痕
 
 <img src="Aircraft/ScreenShots/MainBody/8.Smooth/Smooth2_1a.png" alt="Smooth2_1a" style="zoom:50%;" />
 
@@ -110,15 +108,15 @@
 
 -----
 
-## 机械臂
+### 机械臂
 
-### 1.前臂 | FroeArm
+#### 1.前臂 | FroeArm
 
 <img src="Aircraft/ScreenShots/Arm/1.ForeArm/ForeArm1_1.png" alt="ForeArm1_1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/Arm/1.ForeArm/ForeArm1_2.png" alt="ForeArm1_2" style="zoom:50%;" />
 
-### 2.前臂连接器 | FrontConnector
+#### 2.前臂连接器 | FrontConnector
 
 <img src="Aircraft/ScreenShots/Arm/2.FrontConnector/FrontConnector1.png" alt="FrontConnector1" style="zoom:50%;" />
 
@@ -126,7 +124,7 @@
 
 <img src="Aircraft/ScreenShots/Arm/2.FrontConnector/FrontConnector3.png" alt="FrontConnector3" style="zoom:50%;" />
 
-### 3.后臂 | HindArm
+#### 3.后臂 | HindArm
 
 <img src="Aircraft/ScreenShots/Arm/3.HindArm/HindArm1.png" alt="HindArm1" style="zoom:50%;" />
 
@@ -134,7 +132,7 @@
 
 <img src="Aircraft/ScreenShots/Arm/3.HindArm/HindArm3.png" alt="HindArm3" style="zoom:50%;" />
 
-### 4.下臂连接器 | LowerConnector
+#### 4.下臂连接器 | LowerConnector
 
 <img src="Aircraft/ScreenShots/Arm/4.LowerConnector/LowerConnector1.png" alt="LowerConnector1" style="zoom:50%;" />
 
@@ -142,7 +140,7 @@
 
 <img src="Aircraft/ScreenShots/Arm/4.LowerConnector/LowerConnector3.png" alt="LowerConnector3" style="zoom:50%;" />
 
-### 5.下臂 | LowerArm
+#### 5.下臂 | LowerArm
 
 <img src="Aircraft/ScreenShots/Arm/5.LowerArm/LowerArm1_1.png" alt="LowerArm1_1" style="zoom:50%;" />
 
@@ -152,7 +150,7 @@
 
 <img src="Aircraft/ScreenShots/Arm/5.LowerArm/LowerArm3_1.png" alt="LowerArm3_1" style="zoom:50%;" />
 
-### 6.钳子 | Pliers
+#### 6.钳子 | Pliers
 
 <img src="Aircraft/ScreenShots/Arm/6.Pliers/Pliers1_1.png" alt="Pliers1_1" style="zoom:50%;" />
 
@@ -160,7 +158,7 @@
 
 <img src="Aircraft/ScreenShots/Arm/6.Pliers/Pliers2_1.png" alt="Pliers2_1" style="zoom:50%;" />
 
-### 7.钳子基座 | PliersPedestal
+#### 7.钳子基座 | PliersPedestal
 
 <img src="Aircraft/ScreenShots/Arm/7.PliersPedestal/PliersPedestal1.png" alt="PliersPedestal1" style="zoom:50%;" />
 
@@ -168,18 +166,17 @@
 
 <img src="Aircraft/ScreenShots/Arm/7.PliersPedestal/PliersPedestal3.png" alt="PliersPedestal3" style="zoom:50%;" />
 
-### 8.钳子管索 | PliersTube
+#### 8.钳子管索 | PliersTube
 
 <img src="Aircraft/ScreenShots/Arm/8.PliersTube/PliersTube1.png" alt="PliersTube1" style="zoom:50%;" />
 
 <img src="Aircraft/ScreenShots/Arm/8.PliersTube/PliersTube2.png" alt="PliersTube2" style="zoom:50%;" />
 
-
-
 -----
-# 纹理材质
 
-## 效果整体图
+## 纹理材质
+
+### 效果整体图
 
 <img src="Texture/ScreenShots/Effect_picture1.png" alt="Effect_picture1" style="zoom: 25%;" />
 
@@ -193,9 +190,9 @@
 
 -----
 
-## 纹理图
+### 纹理图
 
-### Antenna
+#### Antenna
 
 <img src="Texture/Resources/antenna1_Roughness.png" alt="antenna1_Roughness" style="zoom:25%;" />
 
@@ -205,7 +202,7 @@
 
 <img src="Texture/Resources/antenna1_Normal.png" alt="antenna1_Normal" style="zoom:25%;" />
 
-### Arm decorate
+#### Arm decorate
 
 <img src="Texture/Resources/arm_decorate1_Roughness.png" alt="arm_decorate1_Roughness" style="zoom:25%;" />
 
@@ -215,7 +212,7 @@
 
 <img src="Texture/Resources/arm_decorate1_Normal.png" alt="arm_decorate1_Normal" style="zoom:25%;" />
 
-### Arm inner
+#### Arm inner
 
 <img src="Texture/Resources/arm_inner1_Roughness.png" alt="arm_inner1_Roughness" style="zoom:25%;" />
 
@@ -225,7 +222,7 @@
 
 <img src="Texture/Resources/arm_inner1_Normal.png" alt="arm_inner1_Normal" style="zoom:25%;" />
 
-### Arm outer
+#### Arm outer
 
 <img src="Texture/Resources/arm_outer1_Roughness.png" alt="arm_outer1_Roughness" style="zoom:25%;" />
 
@@ -235,7 +232,7 @@
 
 <img src="Texture/Resources/arm_outer1_Normal.png" alt="arm_outer1_Normal" style="zoom:25%;" />
 
-### Bilnd
+#### Bilnd
 
 <img src="Texture/Resources/blind1_Roughness.png" alt="blind1_Roughness" style="zoom:25%;" />
 
@@ -245,7 +242,7 @@
 
 <img src="Texture/Resources/blind1_Normal.png" alt="blind1_Normal" style="zoom:25%;" />
 
-### Claw
+#### Claw
 
 <img src="Texture/Resources/claw1_Roughness.png" alt="claw1_Roughness" style="zoom:25%;" />
 
@@ -255,7 +252,7 @@
 
 <img src="Texture/Resources/claw1_Normal.png" alt="claw1_Normal" style="zoom:25%;" />
 
-### Engine
+#### Engine
 
 <img src="Texture/Resources/engine1_Roughness.png" alt="engine1_Roughness" style="zoom:25%;" />
 
@@ -265,7 +262,7 @@
 
 <img src="Texture/Resources/engine1_Normal.png" alt="engine1_Normal" style="zoom:25%;" />
 
-### Mainbody
+#### Mainbody
 
 <img src="Texture/Resources/mainbody1_Roughness.png" alt="mainbody1_Roughness" style="zoom:25%;" />
 
@@ -275,7 +272,7 @@
 
 <img src="Texture/Resources/mainbody1_Normal.png" alt="mainbody1_Normal" style="zoom:25%;" />
 
-### Window screen
+#### Window screen
 
 <img src="Texture/Resources/windscreen1_Roughness.png" alt="windscreen1_Roughness" style="zoom:25%;" />
 
@@ -285,35 +282,35 @@
 
 <img src="Texture/Resources/windscreen1_Normal.png" alt="windscreen1_Normal" style="zoom:25%;" />
 
-
-
 -----
-# 动画
 
-## 场景
+## 动画
+
+### 场景
 
 <img src="Animation/ScreenShots/background.png" alt="background" style="zoom:50%;" />
 
 -----
 
-## 路径动画
+### 路径动画
 
 ![path_animation](Animation/ScreenShots/path_animation.png)
 
 ![path_animation2](Animation/ScreenShots/path_animation2.png)
 
 -----
-# 灯光 & 渲染
 
-## 渲染练习
+## 灯光 & 渲染
+
+### 渲染练习
 
 ![exercise1](Rendering/ScreenShots/exercise1.png)
 
 ------
 
-## 飞行器渲染效果
+### 飞行器渲染效果
 
-### 只有天光
+#### 只有天光
 
 108帧
 
@@ -321,7 +318,7 @@
 
 ------
 
-### 8束光照明系统
+#### 8束光照明系统
 
 <img src="Rendering/ScreenShots/lighting system.png" alt="image-20191226221038495" style="zoom: 50%;" />
 
@@ -347,7 +344,7 @@
 
 ------
 
-### 粒子感
+#### 粒子感
 
 89帧
 
@@ -362,27 +359,28 @@
 ![149](Rendering/Aircraft/particle/149.png)
 
 -----
-# 剪辑
 
-## 时间轴
+## 剪辑
+
+### 时间轴
 
 ![image-20191226222551580](Edit/ScreenShots/technology/timer_shaft.png)
 
 ------
 
-## 时间重映射
+### 时间重映射
 
 ![time_remapping](Edit/ScreenShots/technology/time_remapping.png)
 
 ------
 
-## 蒙版路径
+### 蒙版路径
 
 ![masking_path](Edit/ScreenShots/technology/masking_path.png)
 
 ------
 
-## 故事线
+### 故事线
 
 ![story1](Edit/ScreenShots/story/story1.png)
 
