@@ -1,2 +1,23 @@
-# 3D-Animation-and-Post
-Tongji Univ. --- 3D Animation and Post Course Projects
+# 三维与后期技术
+
+[TOC]
+
+-----
+
+## 飞行器模型建模
+
+
+
+## 纹理材质
+
+
+
+## 动画
+
+
+
+## 灯光 & 渲染
+
+
+
+## 剪辑
